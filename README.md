@@ -68,7 +68,7 @@ Me chamo Bruno César, tenho 24 anos e sou natural do Minas Gerais. Atualmente, 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 20px;" 
     src="https://github-readme-stats.vercel.app/api?username=brunoocssr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -76,7 +76,7 @@ Me chamo Bruno César, tenho 24 anos e sou natural do Minas Gerais. Atualmente, 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoocssr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
