@@ -34,22 +34,6 @@ Me chamo Bruno César, tenho 24 anos e sou natural do Minas Gerais. Atualmente, 
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
-    width="35px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="35px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="35px" 
