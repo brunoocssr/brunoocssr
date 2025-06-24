@@ -2,7 +2,7 @@
 
 <code>Desenvolvedor Fullstack</code>
 
-Me chamo Bruno César, tenho 24 anos e sou natural do Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera. Sou apaixonado por programação e tecnologia e busco demonstar e aplicar meus conhecimentos em projetos reais e práticos.
+Me chamo Bruno César, tenho 24 anos e sou natural do Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera. Apaixonado por programação e tecnologia e busco demonstar e aplicar meus conhecimentos em projetos reais e práticos.
 
 ---
 
