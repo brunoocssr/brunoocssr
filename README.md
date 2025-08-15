@@ -4,7 +4,7 @@
 
 Me chamo **Bruno César**, tenho 24 anos e sou natural de Minas Gerais.  
 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na Anhanguera.  
-Sou apaixonado por programação e tecnologia, buscando sempre demonstrar e aplicar meus conhecimentos em projetos reais e práticos.
+Apaixonado por programação e tecnologia, buscando sempre demonstrar e aplicar meus conhecimentos em projetos reais e práticos.
 
 ---
 
