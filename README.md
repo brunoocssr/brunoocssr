@@ -2,7 +2,9 @@
 
 <code>Desenvolvedor Fullstack</code>
 
-Me chamo Bruno César, tenho 24 anos e sou natural do Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera. Apaixonado por programação e tecnologia e busco demonstar e aplicar meus conhecimentos em projetos reais e práticos.
+Me chamo **Bruno César**, tenho 24 anos e sou natural de Minas Gerais.  
+Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na Anhanguera.  
+Sou apaixonado por programação e tecnologia, buscando sempre demonstrar e aplicar meus conhecimentos em projetos reais e práticos.
 
 ---
 
@@ -40,6 +42,14 @@ Me chamo Bruno César, tenho 24 anos e sou natural do Minas Gerais. Atualmente, 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="35px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
 
 <br/>
 <br/>
@@ -57,11 +67,10 @@ Me chamo Bruno César, tenho 24 anos e sou natural do Minas Gerais. Atualmente, 
     src="https://github-readme-stats.vercel.app/api?username=brunoocssr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="170" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoocssr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoocssr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
