@@ -1,10 +1,11 @@
 # Bruno César Rocha
 
-<code>Desenvolvedor Fullstack</code>
+<code>Desenvolvedor Back-End</code>
 
 Me chamo **Bruno César**, tenho 24 anos e sou natural de Minas Gerais.  
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na Faculdade Una.  
+Cursando **Análise e Desenvolvimento de Sistemas** na Faculdade Una.  
 Apaixonado por programação e tecnologia, buscando sempre demonstrar e aplicar meus conhecimentos em projetos reais e práticos.
+Atualmente estou me dedidando aos estudos da linguagem Java
 
 ---
 
