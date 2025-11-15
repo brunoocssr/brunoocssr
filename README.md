@@ -9,7 +9,7 @@ Atualmente estou me dedidando aos estudos da linguagem Java
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -57,7 +57,7 @@ Atualmente estou me dedidando aos estudos da linguagem Java
 
 ---
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img 
