@@ -5,7 +5,7 @@
 Me chamo **Bruno César**, tenho 24 anos e sou natural de Minas Gerais.  
 Cursando **Análise e Desenvolvimento de Sistemas** na Faculdade Una.  
 Apaixonado por programação e tecnologia, buscando sempre demonstrar e aplicar meus conhecimentos em projetos reais e práticos.
-Atualmente estou me dedidando aos estudos da linguagem Java
+Atualmente estou me dedidando aos estudos da linguagem Java.
 
 ---
 
