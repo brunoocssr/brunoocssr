@@ -2,10 +2,13 @@
 
 <code>Desenvolvedor Back-End</code>
 
-Me chamo **Bruno César**, tenho 24 anos e sou de Minas Gerais.  
-Cursando **Análise e Desenvolvimento de Sistemas** na Faculdade Una.  
-Apaixonado por programação e tecnologia, buscando sempre demonstrar e aplicar meus conhecimentos em projetos reais e práticos.
-Atualmente estou me dedidando aos estudos da linguagem Java e Banco de Dados.     
+Me chamo **Bruno César**, tenho 24 anos e sou Estudando de **Análise e Desenvolvimento de Sistemas** na Faculdade Una.  
+Atualmente estou me dedidando aos estudos da linguagem Java e Banco de Dados.
+
+<div align="left">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
+</div>
 
 ---
 
@@ -44,3 +47,5 @@ Atualmente estou me dedidando aos estudos da linguagem Java e Banco de Dados.
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoocssr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+
