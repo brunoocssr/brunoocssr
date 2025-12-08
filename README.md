@@ -1,55 +1,24 @@
-# Bruno César Rocha
+# Bruno César Rocha da Silva
 
 <code>Desenvolvedor Back-End</code>
 
-Me chamo **Bruno César**, tenho 24 anos e sou natural de Minas Gerais.  
+Me chamo **Bruno César**, tenho 24 anos e sou de Minas Gerais.  
 Cursando **Análise e Desenvolvimento de Sistemas** na Faculdade Una.  
 Apaixonado por programação e tecnologia, buscando sempre demonstrar e aplicar meus conhecimentos em projetos reais e práticos.
-Atualmente estou me dedidando aos estudos da linguagem Java.
+Atualmente estou me dedidando aos estudos da linguagem Java e Banco de Dados.     
 
 ---
 
 ### Linguagens e Tecnologias
 
+
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="35px" 
+    alt="java" 
+    title="java"
+    width="55px" 
     style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="35px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="35px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="35px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="35px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 
 <br/>
